@@ -1,6 +1,6 @@
 # Twitter Location Flag 🚀
 
-<img src="images/header.png" alt="Twitter Location Flag Logo" width="128">
+<img src="images/header.png" alt="Twitter Location Flag Logo">
 
 **Twitter Location Flag** is a sleek, privacy-first browser extension that displays country flag emojis next to Twitter (X) usernames based on their account location. Instantly identify where accounts are registered without leaving your timeline.
 
