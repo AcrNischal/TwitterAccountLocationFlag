@@ -15,10 +15,10 @@
 
 ## 🌐 Store Installation
 
-<a href="#" target="_blank">
+<a href="https://chromewebstore.google.com/detail/aenfolcfmepkehcdmepohmcpmflfieeo" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/1.png" height="50">
 </a>
-<a href="#" target="_blank">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/twitter-account-location-flag" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/2.png" height="50">
 </a>
 <a href="#">
